@@ -68,8 +68,14 @@ The dataset includes comprehensive ride-level information with the following key
 # 📸 Dashboard Snapshots
 
 🚗 Homepage & Navigation
-Vehicle Overview 2
-Revenue Insights
+![Dashboard Preview](HomePage.png)
+
+Sales Overview
+![Dashboard Preview](Sales1.png)
+![Dashboard Preview](Sales2.png)
+
+Vehicle Insights
+![Dashboard Preview](Vehicle.png)
 
 # 📈 Key Metrics Summary
 
